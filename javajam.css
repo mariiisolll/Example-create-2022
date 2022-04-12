@@ -22,6 +22,7 @@ header {
 background-color: #CD5C5C;
 background-image: url(strawberrylogo.jpeg);
 background-repeat: no-repeat;
+	background-size: 200px 128px;
        color: #231814; 
 	padding-left: 240px;
 	padding-top: 5px;
