@@ -1,7 +1,7 @@
 * { box-sizing: border-box; }
 body { 
 background-color: #FFDAB8;
-background-image: url(fadedroad50.jpg);
+background-image: url(download.jpeg);
 background-repeat: no-repeat;
 background-size: cover;
 background-attachment: fixed;
@@ -20,7 +20,7 @@ background-color: #FDF5E6;
 }   
 header { 
 background-color: #CD5C5C;
-background-image: url();
+background-image: url(coffeelogo.jpg);
 background-repeat: no-repeat;
        color: #231814; 
 	padding-left: 240px;
