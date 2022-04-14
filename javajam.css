@@ -32,9 +32,11 @@ header a { text-decoration: none; }
 header a:link { color: #231814; }
 header a:visited { color: #231814; }
 header a:hover { color: #FEF6C2; }
-h1 { font-size: 3em; }
-h2 { color: #8C3826; }
-h3, dt {color: #8C3826;}
+h1 { font-size: 3em; 
+color:white;
+}
+h2 { color: #CD5C5C; }
+h3, dt {color: #CD5C5C;}
 h4 {
 	background-color: #D2B4BC;
 font-size: 1.2em;
@@ -56,12 +58,12 @@ float: left;
 nav a {text-decoration: none;}
 nav a:link {color: #FEF6C2; }
 nav a:visited {color: #D2B48C; }
-nav a:hover {color:#CC9933; }
+nav a:hover {color:#CD5C5C; }
 nav ul {
 	list-style-type: none;
 	padding-left: 0; }
 main {
-	background-color: #FEF6C2;
+	background-color: beige;
 	display: block;
 	margin-left: 200px;
 	overflow: auto;
@@ -105,10 +107,10 @@ padding-left: 10px;
 }
 
 footer { 
-background-color: #D2B48C;
+background-color: white;
 	 font-size: .60em;
 	 font-style: italic;
 	 text-align: center;
 padding-bottom: 1em;
-	border-top: 2px solid #8C3826;
+	border-top: 2px solid hotpink;
 }
